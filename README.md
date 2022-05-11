@@ -16,7 +16,7 @@
 ### 🔔 𝗦𝗨𝗕𝗦𝗖𝗥𝗜𝗕𝗘 🔔
 <a href="https://www.youtube.com/channel/UCohk_mpuW8SpgZMyOzRdKcA"> <img src="https://img.shields.io/youtube/channel/subscribers/UCmGBpXoM-OEm-FacOccVKgQ?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
 
-### 🔘 <a href="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/tree/Professor-99/LuciferMoringstar_Robot/modules">𝗔𝗱𝗱𝗲𝗱 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀</a> 🔘
+### 🔘 <a href="https://github.com/Zahidnam/LuciferMoringstar-Robot/tree/Professor-99/LuciferMoringstar_Robot/modules">𝗔𝗱𝗱𝗲𝗱 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀</a> 🔘
 
 - [x] IMDB Poster
 - [x] IMDB Rating
